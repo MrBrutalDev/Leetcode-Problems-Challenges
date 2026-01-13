@@ -1,0 +1,193 @@
+✅ DSA TOPIC CHECKLIST
+
+ 🧠 0. Basics & Analysis
+
+ ⬜ Time Complexity (Big-O, Θ, Ω)
+ ⬜ Space Complexity
+ ⬜ Recursion basics
+ ⬜ Iterative vs Recursive solutions
+ ⬜ Mathematical basics (GCD, LCM, primes)
+ ⬜ Bit manipulation basics
+
+---
+
+ 🧱 1. Arrays
+
+ ⬜ Traversal & insertion
+ ⬜ Two Pointers
+ ⬜ Sliding Window (fixed & variable)
+ ⬜ Prefix Sum
+ ⬜ Kadane’s Algorithm
+ ⬜ Rotate array
+ ⬜ Subarrays (sum, max, count)
+ ⬜ Majority element
+ ⬜ Merge intervals
+
+---
+
+ 🔤 2. Strings
+
+ ⬜ String manipulation
+ ⬜ Palindrome check
+ ⬜ Anagrams
+ ⬜ Substrings & subsequences
+ ⬜ String hashing
+ ⬜ Pattern matching (basic)
+
+---
+
+ 📦 3. Hashing (Map / Set)
+
+ ⬜ Frequency counting
+ ⬜ Two-sum
+ ⬜ Subarray sum = K
+ ⬜ Longest consecutive sequence
+ ⬜ Handling collisions (concept)
+
+---
+
+ 📚 4. Stack
+
+ ⬜ Stack implementation
+ ⬜ Valid parentheses
+ ⬜ Min Stack
+ ⬜ Next Greater / Smaller Element
+ ⬜ Monotonic stack
+ ⬜ Infix → Postfix
+ ⬜ Expression evaluation
+
+---
+
+ 🚦 5. Queue & Deque
+
+ ⬜ Queue implementation
+ ⬜ Circular queue
+ ⬜ Deque usage
+ ⬜ Sliding window maximum
+ ⬜ BFS traversal
+
+---
+
+ 🔗 6. Linked List
+
+ ⬜ Singly linked list
+ ⬜ Doubly linked list
+ ⬜ Reverse linked list
+ ⬜ Detect cycle
+ ⬜ Find middle
+ ⬜ Merge sorted lists
+ ⬜ Remove Nth node from end
+
+---
+
+ 🌲 7. Trees (VERY IMPORTANT)
+
+ ⬜ Binary Tree structure
+ ⬜ DFS (Inorder, Preorder, Postorder)
+ ⬜ BFS / Level order
+ ⬜ Height & Diameter
+ ⬜ Balanced tree
+ ⬜ Path sum problems
+ ⬜ Lowest Common Ancestor
+ ⬜ Serialize & Deserialize
+
+---
+
+ 🌳 8. Binary Search Tree (BST)
+
+ ⬜ Insert / Delete / Search
+ ⬜ Validate BST
+ ⬜ Kth smallest / largest
+ ⬜ Range queries
+
+---
+
+ 🔍 9. Binary Search
+
+ ⬜ Standard binary search
+ ⬜ First & last occurrence
+ ⬜ Rotated sorted array
+ ⬜ Binary search on answer
+ ⬜ Peak element
+ ⬜ Infinite array concept
+
+---
+
+ 🧩 10. Recursion & Backtracking
+
+ ⬜ Recursion tree
+ ⬜ Subsets
+ ⬜ Permutations
+ ⬜ Combination sum
+ ⬜ N-Queens
+ ⬜ Sudoku solver
+
+---
+
+ 📊 11. Dynamic Programming (MAKE OR BREAK)
+
+ 1D DP
+
+ ⬜ Fibonacci
+ ⬜ Climbing stairs
+ ⬜ House robber
+ ⬜ Coin change
+
+ 2D DP
+
+ ⬜ 0/1 Knapsack
+ ⬜ Unbounded knapsack
+ ⬜ Longest Common Subsequence
+ ⬜ Longest Palindromic Substring
+ ⬜ Edit Distance
+ ⬜ DP on grids
+
+---
+
+ 🌐 12. Graphs
+
+ ⬜ Graph representation
+ ⬜ BFS & DFS
+ ⬜ Connected components
+ ⬜ Cycle detection
+ ⬜ Topological sort
+ ⬜ Dijkstra
+ ⬜ Bellman-Ford
+ ⬜ Floyd-Warshall
+ ⬜ Union-Find (DSU)
+
+---
+
+ 🧠 13. Greedy Algorithms
+
+ ⬜ Activity selection
+ ⬜ Interval scheduling
+ ⬜ Job sequencing
+ ⬜ Huffman coding
+
+---
+
+ 🔤 14. Trie
+
+ ⬜ Insert / Search
+ ⬜ Prefix matching
+ ⬜ Autocomplete concept
+
+---
+
+ 📐 15. Advanced Data Structures
+
+ ⬜ Heap / Priority Queue
+ ⬜ Segment Tree
+ ⬜ Fenwick Tree (BIT)
+ ⬜ LRU Cache
+
+---
+
+ 🎯 FINAL ADVICE (IMPORTANT)
+
+ Depth > Quantity
+ Solve 180–220 high-quality problems
+ Explain your approach clearly
+ Optimize brute force step-by-step
+
