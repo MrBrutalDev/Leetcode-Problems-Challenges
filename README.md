@@ -15,8 +15,8 @@ Goals:
 <br>
 
 # DSA Progress Table:
-| Topic | Problems Solved | Easy | Medium | Hard
-|:------|:------:|:-----:|:-----:|:------:|
+| Topics | Problems Solved | Easy | Medium | Hard
+|:------:|:------:|:-----:|:-----:|:------:|
 |Arrays | 4 | 4| 0 | 0
 |Strings | 0 | 0 | 0 | 0 |
 |Trees | 0 | 0 | 0 | 0 |
@@ -27,7 +27,7 @@ Goals:
 # Challenges Progress Table: 
 
 | Challenge | Problems | Status | Completed 
-|:---------|:--------:|:-------:|:-------:|
+|:---------:|:--------:|:-------:|:-------:|
 |30 Days JavaScript | 11 | Ongoing
 |SQL 50 | 0 | Pending
 |Top Interview 150 | 0 | Pending
