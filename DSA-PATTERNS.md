@@ -1,0 +1,6 @@
+- Two Pointer
+- Sliding Window
+- Binary Search
+- DFS
+- BFS
+- Dynamic Programming
